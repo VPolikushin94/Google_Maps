@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.133" />
+        <entry key="app/src/main/res/drawable/bottom_sheet_background.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_charged.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_charged_bs.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_charged_half.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_charged_half_bs.xml" value="0.154" />
+        <entry key="app/src/main/res/drawable/ic_discharged.xml" value="0.154" />
+        <entry key="app/src/main/res/drawable/ic_discharged_bs.xml" value="0.154" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.133" />
+        <entry key="app/src/main/res/drawable/ic_scooter.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/radio_flat_regular.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/radio_flat_selected.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/radio_flat_selector.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/radio_flat_text_selector.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_maps.xml" value="0.10001118977864584" />
+        <entry key="app/src/main/res/layout/charge_marker_info.xml" value="0.2994791666666667" />
+        <entry key="app/src/main/res/layout/marker_bottom_sheet_info.xml" value="0.33377685546875" />
+        <entry key="app/src/main/res/layout/marker_info.xml" value="0.2361111111111111" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
